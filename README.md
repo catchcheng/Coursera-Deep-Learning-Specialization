@@ -8,7 +8,7 @@ This is the 5-course specialization I have completed at deeplearningai taught by
 4. Convolutional Neural Networks
 5. Sequence Models
 
-//
+
 1. Neural Networks and Deep Learning
 
 In this course, you will learn the foundations of deep learning. When you finish this class, you will:
@@ -26,7 +26,7 @@ Planar data classification with one hidden layer v3 [notebook].
 Building your Deep Neural Network Step by Step v3 [notebook].
 Deep Neural Network Application v3.
 
-//
+
 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 When you finish this class, you will:
@@ -43,7 +43,7 @@ Gradient Checking [notebook].
 Optimization [notebook].
 Tensorflow Tutorial [notebook].
 
-//
+
 3. Structuring Machine Learning Projects
 
 You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course will show you how.Much of this content has never been taught elsewhere, and is drawn from my experience building and shipping many deep learning products. This course also has two "flight simulators" that let you practice decision-making as a machine learning project leader. This provides "industry experience" that you might otherwise get only after years of ML work experience.
@@ -53,7 +53,7 @@ Understand how to diagnose errors in a machine learning system, and be able to p
 Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
 Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
-//
+
 4. Convolutional Neural Networks
 
 This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images.
@@ -73,7 +73,8 @@ Autonomous driving application Car detection [notebook].
 Art Generation with Neural Style Transfer [notebook].
 Face Recognition for the Happy House [notebook].
 
-//
+
+
 5. Sequence Models
 This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others. 
 
